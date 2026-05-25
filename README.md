@@ -1,2 +1,65 @@
-# tank-war
-A classic Tank War game built with HTML5 Canvas, featuring AI enemies, collision detection, and scoring system.
+# 坦克大战
+
+一个用HTML5 Canvas制作的经典坦克大战游戏。
+
+## 功能特性
+
+- 🎮 流畅的游戏体验
+- 🎯 多个敌人AI
+- 💥 实时射击和碰撞检测
+- 📊 得分和生命值系统
+- 🎨 现代化UI设计
+- ⏸️ 暂停/继续功能
+
+## 如何玩
+
+### 控制方式
+- **移动**: 使用方向键 (↑ ↓ ← →) 或 WASD键
+- **射击**: 按空格键
+
+### 游戏规则
+- 消灭敌人坦克以获得分数
+- 避免敌人的炮火
+- 生命值降至0游戏结束
+- 每消灭一个敌人获得10分
+
+## 游戏特性
+
+- 敌人AI会自动射击并移动
+- 难度随着分数增加而增加
+- 敌人数量会逐渐增加
+- 实时显示得分和生命值
+
+## 如何运行
+
+1. 克隆或下载此仓库
+2. 用浏览器打开 `index.html` 文件
+3. 点击"开始游戏"按钮开始游戏
+
+## 文件结构
+
+```
+tank-war/
+├── index.html    # 游戏主页面
+├── style.css     # 样式表
+├── game.js       # 游戏逻辑
+└── README.md     # 说明文档
+```
+
+## 技术栈
+
+- HTML5
+- CSS3
+- JavaScript (原生)
+
+## 作者
+
+由Copilot创建
+
+## 许可证
+
+MIT License
+
+---
+
+祝游戏愉快！🎮
